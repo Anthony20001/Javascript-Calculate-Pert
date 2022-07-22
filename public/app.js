@@ -1,4 +1,4 @@
-window.onload = () => {
+
     var btn_submit = document.getElementById("btn_submit");
     var input_tiempo_o = document.getElementById("tiempo_optimista");
     var input_tiempo_m = document.getElementById("tiempo_medio");
@@ -27,6 +27,5 @@ window.onload = () => {
         form_pert.reset();
     });
 
-    
-}
+
     
